@@ -1,5 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
+import yeeImage from './yee.png';
+
 
 const AboutMe = () => {
 	const styles = {
@@ -25,6 +27,11 @@ const AboutMe = () => {
 	return (
 		<section style={styles.section}>
 			<Container>
+            <img
+          src={yeeImage} // Use the imported variable to reference the image
+          alt="Profile"
+          style={styles.image}
+        />
 				<p>Welcome!</p>
 				<h2 style={styles.heading} className='fw-bold'>
 					Steve Martin
