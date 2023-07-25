@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "react-scripts": "4.0.3"
+  },
+  "engines": {
+    "node": "18.17.0"
   }
 }
