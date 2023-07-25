@@ -19,7 +19,7 @@
     "react-scroll": "^1.8.9"
   },
   "devDependencies": {
-    "react-scripts": "4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "engines": {
     "node": "18.17.0"
