@@ -42,6 +42,17 @@ const NavBar = ({ selectSection }) => {
 							Project
 					
 						</Nav.Link>
+                        <Nav.Link
+							onClick={() => {
+								selectSection('Contact');
+							}}
+							style={styles.color}
+						>
+							Contact
+					
+						</Nav.Link>
+		
+						
 						<Nav.Link
 							onClick={() => {
 								selectSection('Resume');
