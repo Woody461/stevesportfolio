@@ -1,6 +1,5 @@
 {
 	"name": "stevesportfolio",
-	"homepage": "https://woody461.github.io/stevesportfolio/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
