@@ -1,4 +1,4 @@
-[Launch Code Quiz](https://woody461.github.io/stevesportfolio/)
+[Launch Steves portfolio](https://woody461.github.io/stevesportfolio/)
 
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
