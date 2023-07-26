@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stevesportfolio/static/css/main.b0415d02.css",
+    "main.js": "/stevesportfolio/static/js/main.19c92ad9.js",
+    "static/media/yee.png": "/stevesportfolio/static/media/yee.832fc732eb02d9d1fe24.png",
+    "static/media/bootstrap-icons.woff?": "/stevesportfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/stevesportfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/stevesportfolio/index.html",
+    "main.b0415d02.css.map": "/stevesportfolio/static/css/main.b0415d02.css.map",
+    "main.19c92ad9.js.map": "/stevesportfolio/static/js/main.19c92ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0415d02.css",
+    "static/js/main.19c92ad9.js"
+  ]
+}
